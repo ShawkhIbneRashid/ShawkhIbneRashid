@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-[![Shawkh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawkhIbneRashid&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/ShawkhIbneRashid/github-readme-stats)
+[![Shawkh's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=ShawkhIbneRashid&hide=contribs,prs,issues&show_icons=true&theme=radical)]
 <!--
 [![My GitHub Language Stats]https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShawkhIbneRashid&&show_icons=true&theme=dark)]()
 
