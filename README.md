@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I completed my thesis-based MSc. in Computer Science from Ontario Tech University, Oshawa, Ontario, Canada.
 - 🌱 I have worked on various projects in the field of machine learning, medical imaging, data analysis and web development. 
-- 📫 You can email me at si.rashid13@gmail.com and my LinkedIn profile link is https://www.linkedin.com/in/shawkh/
+- 📫 Connect with me on LinkedIn https://www.linkedin.com/in/shawkh/
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
